@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jay 👋
+### Software Test Engineer | Manual (60%) & Automation (40%)
 
-<!--
-**jayjoshi603/jayjoshi603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 6+ years of QA experience across web, mobile, and software systems  
+🔹 Manual testing expert: functional, regression, exploratory, usability, accessibility 
+🔹 Automation with Selenium, JUnit, Postman  
+🔹 Strong defect management & reporting (JIRA)  
+🔹 Passionate about delivering bug-free, user-friendly products
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- 📝 [Manual Test Cases](link) – Structured test cases for a sample e-commerce app  
+- 🐞 [Bug Reports](link) – Realistic defect tracking examples with screenshots  
+- ⚙️ [Automation Framework](link) – Selenium + JUnit sample project  
+- 🌐 [API Testing](link) – Postman collections with manual + automated runs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/jay-joshi-0a339416a/)
