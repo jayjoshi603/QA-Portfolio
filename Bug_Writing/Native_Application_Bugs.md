@@ -1,4 +1,4 @@
-[High Pri] Instagram(Android/iOS) (Production v300): User is able to login when user enter wrong password and press log in button from Instagram login page
+Instagram(Android/iOS) (Production v300): User is able to login when user enter wrong password and press log in button from Instagram login page
 
 Frequency: 100%
 Reproducible accounts : jay.test / bug123!
@@ -21,15 +21,21 @@ Expected result: User should not able to login when user enter wrong password an
 Video Link : bug video [Video not provided as this is demo]
 Logs : Android Logs , iOS Logs [Missing file as this is demo]
 
-Fix version  
-none
-
-Reported On: 
-July 30, 2025  
-
-Reported By: 
-Jay
-
-Assignee: 
-Not assigned
-
+---------
+## Bug Priority:
+- Medium
+---------
+## Bug Severity 
+- Medium
+---------
+## Fix version  
+- none
+-----
+## Reported On: 
+- July 30, 2025  
+------
+## Reported By: 
+- Jay
+------
+## Assignee: 
+- Not assigned
