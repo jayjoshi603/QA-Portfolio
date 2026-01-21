@@ -38,5 +38,4 @@ Video Link : bug video [Video not provided as this is demo]
 - Jay
 ------
 ## Assignee: 
-- Adam
 - Not assigned
