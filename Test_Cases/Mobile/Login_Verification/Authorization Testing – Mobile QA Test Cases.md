@@ -14,7 +14,7 @@ This section covers the test cases related to application verification, ensuring
 
 -----
 **Out of Scope:**
-- Will think on this  
+- Accessibility testing [Talkback & Voiceover]
 
 ---
 
