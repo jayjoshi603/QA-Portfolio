@@ -8,6 +8,7 @@ Does this reproduce on Master branch (v302): Yes
 
 Precondition:
 1.	Download Instagram application from the play store or the app store
+
 Steps:
 1.	Open Instagram and navigate to the login page 
 2.	Enter correct username and enter ‘Wrong’ password
