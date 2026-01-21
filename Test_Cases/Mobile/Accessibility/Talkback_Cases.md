@@ -15,7 +15,7 @@ These TalkBack test cases cover:
 
 ## Out Of scope
 1. Functional testing of the application
-2. iOS voiceover is excluded
+2. iOS voiceover is excluded, If you want to see you can find here : [Voiceover_Cases.md](https://github.com/jayjoshi603/QA-Portfolio/blob/4cd6fe65f23704363bf979a3a3224906b7ca8cfc/Test_Cases/Mobile/Accessibility/Voiceover_Cases.md)
 
 
 ## 🧪 Test Cases
