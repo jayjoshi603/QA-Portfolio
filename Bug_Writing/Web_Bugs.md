@@ -1,4 +1,4 @@
-[Mid Pri] Instagram(Mobile Web / WWW): No action is performed when user tap on the explore button from the left navigation bar
+Instagram(Mobile Web / WWW): No action is performed when user tap on the explore button from the left navigation bar
 
 Frequency: 100%
 Reproducible account : jay.test / bug123!
@@ -17,16 +17,26 @@ Actual result: No action is performed when user tap on the explore button from t
 
 Expected result: User should navigate to the ‘Explore’ page when user tap on the explore button from the left navigation bar
 
+Related Test cases: [Add realted Test case ID]
+
 Video Link : bug video [Video not provided as this is demo]
 
-Fix version  
-none
-
-Reported On: 
-July 30, 2025  
-
-Reported By: 
-Jay
-
-Assignee: 
-Not assigned
+---------
+## Bug Priority:
+- Medium
+---------
+## Bug Severity 
+- Medium
+---------
+## Fix version  
+- none
+-----
+## Reported On: 
+- July 30, 2025  
+------
+## Reported By: 
+- Jay
+------
+## Assignee: 
+- Adam
+- Not assigned
