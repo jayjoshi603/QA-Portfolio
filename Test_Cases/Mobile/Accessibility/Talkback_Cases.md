@@ -79,7 +79,7 @@ These TalkBack test cases cover:
 - **Execution Status:** Not run  
 - **Estimated Time:** 5m 
 - **Automation:** Manual  
-- **TC_NO:** TC-003
+- **TC_NO:** TC-004
 - **Precondition:** Download Instagram application from Play Store or App Store and turn on [talkback](https://support.google.com/accessibility/android/answer/6007100?hl=en) from the device setting
 
 | No | Steps | Expected Result |
