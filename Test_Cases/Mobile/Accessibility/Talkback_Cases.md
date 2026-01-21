@@ -69,3 +69,21 @@ These TalkBack test cases cover:
 |----|-------|----------------|
 | 1  | Open Instagram and navigate ot the login page | Make sure login page rander properly |
 | 2  | Enter username, password and double tap on Login button by setting focus on it | User should login into the application |
+
+-------------
+## TC-004-Talkback - Image have descriptive content description
+- **Title:** Images are announced with alternative text
+- **Section:** Home Page  
+- **Priority:** Mid  
+- **Platform:** Android
+- **Execution Status:** Not run  
+- **Estimated Time:** 5m 
+- **Automation:** Manual  
+- **TC_NO:** TC-003
+- **Precondition:** Download Instagram application from Play Store or App Store and turn on [talkback](https://support.google.com/accessibility/android/answer/6007100?hl=en) from the device setting
+
+| No | Steps | Expected Result |
+|----|-------|----------------|
+| 1  | Open Instagram and navigate ot the login page | Make sure login page rander properly |
+| 2  | Enter username, password and double tap on Login button by setting focus on it | User should login into the application |
+| 3  | Swipe left to right and set focus on any image from the feed page | Talkback announces the image description | 
