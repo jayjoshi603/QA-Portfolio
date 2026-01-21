@@ -3,7 +3,9 @@ Instagram(Android/iOS) (Production v300): User is able to login when user enter 
 Frequency: 100%
 Reproducible accounts : jay.test / bug123!
 Reproducible devices: Pixel 8a (15.0) Samsung s23 (16.0), iPhone 11 (17.0) iPhone 15 Pro Max (26)
+
 Does this reproduce on RC branch (v301): Yes
+
 Does this reproduce on Master branch (v302): Yes
 
 Precondition:
