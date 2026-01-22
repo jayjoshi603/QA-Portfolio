@@ -10,7 +10,7 @@
 - Dark mode and high-contrast UI behavior
 
 ## Exclusions
-- iOS-specific layout validation – see 
+- iOS-specific layout validation – [see](https://github.com/jayjoshi603/QA-Portfolio/blob/3ee4d5d40703baf8a91b6c6398606898ed8b6a0d/Test_Cases/Mobile/Hardware%20Flexibility/iOS_Testing.md) 
 
 
 ### TC-001-ADEPT-AND – Layout across Android screen sizes
