@@ -48,23 +48,6 @@
 | 2  | Navigate through the screens | Content remains readable and accessible |
 ---
 
-### TC-002-ADEPT-AND – Accessibility font scaling
-- **Title:** Validate layout with system font scaling enabled
-- **Section:** Android Device Adaptability  
-- **Priority:** Mid  
-- **Platform:** Android
-- **Execution Status:** Passed  
-- **Estimated Time:** 1m  
-- **Automation:** Manual  
-- **TC_NO:** TC-002  
-- **Precondition:** Download Instagram application from Play Store or App Store  
-
-| No | Steps | Expected Result |
-|----|-------|----------------|
-| 1  | Set device font to large and open the Instagram application | Application font size should increased |
-| 2  | Navigate through the screens | Content remains readable and accessible |
----
-
 ### TC-003-ADEPT-AND – Foldable device layout
 - **Title:**  Validate layout on foldable Android devices
 - **Section:** Android Device Adaptability  
