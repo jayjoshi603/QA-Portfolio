@@ -23,12 +23,11 @@ This example aim to help QA enginners practice:
 
 ## Available Query Files
 
-- [SELECT_Queries.md](SELECT_Queries.md) – basic data retrieval, filtering, ordering  
-- [JOIN_Queries.md](JOIN_Queries.md) – relational logic across multiple tables  
-- [GROUP_BY_Queries.md](GROUP_BY_Queries.md) – aggregate results like total sales or customer counts  
-- [INSERT_UPDATE_DELETE.md](INSERT_UPDATE_DELETE.md) – modifying data for edge-case testing  
-- [Subquery_CTEs.md](Subquery_CTEs.md) – examples using nested logic and common table expressions  
-- [Error_Scenarios.md](Error_Scenarios.md) – malformed queries, violations, constraint issues
+- [SELECT_Queries.md](SELECT_Queries.md) – Basic data retrieval, filtering, ordering  
+- [Join_Queries.md](Join_Queries.md) – Relational logic across multiple tables  
+- [Group_Queries.md](Group_Queries.md) – Aggregate results like total customer, maximum order
+- [INSERT_UPDATE_DELETE.md](INSERT_UPDATE_DELETE.md) – Modifying data for edge-case testing  
+- [SubQueries.md](SubQueries.md) – Examples using nested logic and common table expressions  
 
 ---
 
