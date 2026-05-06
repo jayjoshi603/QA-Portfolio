@@ -26,7 +26,7 @@ This example aim to help QA enginners practice:
 - [SELECT_Queries.md](SELECT_Queries.md) – Basic data retrieval, filtering, ordering  
 - [Join_Queries.md](Join_Queries.md) – Relational logic across multiple tables  
 - [Group_Queries.md](Group_Queries.md) – Aggregate results like total customer, maximum order
-- [INSERT_UPDATE_DELETE.md](INSERT_UPDATE_DELETE.md) – Modifying data for edge-case testing  
+- [INSERT_UPDATE_DELETE.md](Insert_Update_Delete.md) – Modifying data for edge-case testing  
 - [SubQueries.md](SubQueries.md) – Examples using nested logic and common table expressions  
 
 ---
