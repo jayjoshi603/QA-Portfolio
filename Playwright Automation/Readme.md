@@ -1,1 +1,2 @@
 In [Script.md](https://github.com/jayjoshi603/QA-Portfolio/blob/bbddbef0dc884a69457ac2d0ce892b0fad1f7144/Playwright%20Automation/Script.md) file contains different kind of locators and selectors
+In [Script2.md](https://github.com/jayjoshi603/QA-Portfolio/blob/bbddbef0dc884a69457ac2d0ce892b0fad1f7144/Playwright%20Automation/Script2.md) file contains different mouse actions like click, double click, right click, hover and drag and drop.
